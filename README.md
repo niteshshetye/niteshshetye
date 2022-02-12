@@ -1,7 +1,7 @@
-[![MasterHead](https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif)](https://rishavchanda.io)
+[![MasterHead](https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif)](https://niteshshetye.io)
 <h1 align="center">Hi 👋, I'm Nitesh Shetye</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img width=”400” src=”https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif” alt=”coding” />
+<img align="right" width="400" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif" alt="coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codernitesh&label=Profile%20views&color=0e75b6&style=flat" alt="codernitesh" /> </p>
 
